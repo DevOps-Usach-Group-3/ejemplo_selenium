@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="DevOpsHandBookTest" time="4.369" tests="1" errors="1" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="CreateAccountTest" time="55.078" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CL"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.13.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/surefire/surefirebooter17315655617762488116.jar /Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/surefire 2022-03-16T21-07-15_301-jvmRun1 surefire778906390816317590tmp surefire_07643615711081682920tmp"/>
+    <property name="sun.java.command" value="/Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/surefire/surefirebooter2441937461614442072.jar /Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/surefire 2022-03-20T22-20-19_383-jvmRun1 surefire3923153959079692592tmp surefire_05228905592623687445tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/test-classes:/Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/classes:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-java/3.141.59/selenium-java-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/3.141.59/selenium-chrome-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/3.141.59/selenium-edge-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/3.141.59/selenium-firefox-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/3.141.59/selenium-ie-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/3.141.59/selenium-opera-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/3.141.59/selenium-safari-driver-3.141.59.jar:/Users/camiloescobar/.m2/repository/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar:/Users/camiloescobar/.m2/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar:/Users/camiloescobar/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/camiloescobar/.m2/repository/com/google/guava/guava/25.0-jre/guava-25.0-jre.jar:/Users/camiloescobar/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar:/Users/camiloescobar/.m2/repository/org/checkerframework/checker-compat-qual/2.0.0/checker-compat-qual-2.0.0.jar:/Users/camiloescobar/.m2/repository/com/google/errorprone/error_prone_annotations/2.1.3/error_prone_annotations-2.1.3.jar:/Users/camiloescobar/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar:/Users/camiloescobar/.m2/repository/org/codehaus/mojo/animal-sniffer-annotations/1.14/animal-sniffer-annotations-1.14.jar:/Users/camiloescobar/.m2/repository/com/squareup/okhttp3/okhttp/3.11.0/okhttp-3.11.0.jar:/Users/camiloescobar/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar:/Users/camiloescobar/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/camiloescobar/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/surefire/surefirebooter17315655617762488116.jar"/>
+    <property name="surefire.real.class.path" value="/Users/camiloescobar/Desktop/DevOps/ejemploSeleniumWeb-main/target/surefire/surefirebooter2441937461614442072.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+10-LTS-370"/>
     <property name="user.name" value="camiloescobar"/>
@@ -58,25 +58,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="devOpsHandBook" classname="DevOpsHandBookTest" time="4.367">
-    <error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;div:nth-child(1) &gt; .g &gt; div &gt; div .LC20lb&quot;}&#10;  (Session info: chrome=99.0.4844.51)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;&#10;System info: host: &apos;Camilos-MacBook-Pro.local&apos;, ip: &apos;fe80:0:0:0:1487:d07a:fc35:2353%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;11.2&apos;, java.version: &apos;11.0.13&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: /var/folders/qm/w3fsml5545q...}, goog:chromeOptions: {debuggerAddress: localhost:59440}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: ca17eb6b74630c86eee8ad960b6167fa&#10;*** Element info: {Using=css selector, value=div:nth-child(1) &gt; .g &gt; div &gt; div .LC20lb}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"css selector","selector":"div:nth-child(1) > .g > div > div .LC20lb"}
-  (Session info: chrome=99.0.4844.51)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'Camilos-MacBook-Pro.local', ip: 'fe80:0:0:0:1487:d07a:fc35:2353%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.2', java.version: '11.0.13'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.51, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: /var/folders/qm/w3fsml5545q...}, goog:chromeOptions: {debuggerAddress: localhost:59440}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: ca17eb6b74630c86eee8ad960b6167fa
-*** Element info: {Using=css selector, value=div:nth-child(1) > .g > div > div .LC20lb}
-	at DevOpsHandBookTest.devOpsHandBook(DevOpsHandBookTest.java:48)
-</error>
-    <system-err><![CDATA[Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 18804
-Only local connections are allowed.
-Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
-ChromeDriver was started successfully.
-Mar 16, 2022 9:07:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-]]></system-err>
-  </testcase>
+  <testcase name="LoginAndBuy" classname="CreateAccountTest" time="23.93"/>
+  <testcase name="createAccountAndBuy" classname="CreateAccountTest" time="31.119"/>
 </testsuite>
